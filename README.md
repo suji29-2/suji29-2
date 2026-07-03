@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sujatha 👋
 
-<!--
-**suji29-2/suji29-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+I am a B.Tech student passionate about Python programming, data analytics, and problem-solving. I enjoy building practical projects and continuously improving my technical skills through hands-on learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- Power BI
+- SQL
+- Git & GitHub
+
+## 📂 Projects
+- Face Recognition System using Python
+- Chocolate Manufacturing Power BI Dashboard
+- CodSoft Python Internship Tasks
+
+## 🌱 Currently Learning
+- Advanced Python
+- Data Analytics
+- Power BI
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/venkata-sujatha-adduri-051112366
+
+⭐ Thank you for visiting my GitHub profile!
