@@ -31,4 +31,14 @@ I am a B.Tech student with a strong interest in Python programming, Data Analyti
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/venkata-sujatha-adduri-051112366
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suji29-2&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suji29-2&layout=compact&theme=tokyonight" />
+</p>
+
 ⭐ Thank you for visiting my GitHub profile!
