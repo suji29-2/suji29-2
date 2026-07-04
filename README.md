@@ -27,14 +27,24 @@ I am a B.Tech student with a strong interest in Python programming, Data Analyti
 - Chocolate Manufacturing Power BI Dashboard
 - CodSoft Python Internship Tasks
 
+## 🏆 Certifications
+
+- Infosys Springboard – Path of Pragati Program
+- CodSoft – Python Programming Internship
+- Power BI Learning & Dashboard Development
+
+  
 ## 🌱 Currently Learning
 - Advanced Python
 - Data Analytics
 - Power BI
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/venkata-sujatha-adduri-051112366
+## 🌐 Connect With Me
 
+- 💼 LinkedIn: https://www.linkedin.com/in/venkata-sujatha-adduri-051112366
+- 💻 GitHub: https://github.com/suji29-2
+
+  
 ## 📊 GitHub Stats
 
 <p align="center">
