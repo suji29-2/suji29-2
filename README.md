@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://github.com/suji29-2/suji29-2/raw/main/banner.png" alt="Banner" width="100%">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sujatha+%F0%9F%91%8B;Python+Developer;Power+BI+Enthusiast;Learning+Data+Analytics;Welcome+to+my+GitHub+Profile!" />
+</p>
+
 # Hi, I'm Sujatha 👋
 
 🎓 B.Tech Student
