@@ -6,7 +6,8 @@
 🎓 B.Tech Student
 
 ## 👩‍💻 About Me
-I am a B.Tech student passionate about Python programming, data analytics, and problem-solving. I enjoy building practical projects and continuously improving my technical skills through hands-on learning.
+
+I am a B.Tech student with a strong interest in Python programming, Data Analytics, and Power BI. I enjoy building practical projects that solve real-world problems and continuously learning new technologies to improve my technical and problem-solving skills. My goal is to grow as a software and data professional by gaining hands-on experience through projects and internships.
 
 ## 🛠️ Skills
 - Python
