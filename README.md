@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/suji29-2/suji29-2/raw/main/banner.png" alt="Banner" width="100%">
+</p>
 # Hi, I'm Sujatha 👋
 
 🎓 B.Tech Student
