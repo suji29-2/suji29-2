@@ -34,11 +34,8 @@ I am a B.Tech student with a strong interest in Python programming, Data Analyti
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suji29-2&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suji29-2&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suji29-2&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suji29-2&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ⭐ Thank you for visiting my GitHub profile!
